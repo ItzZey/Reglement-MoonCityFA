@@ -68,9 +68,9 @@ Sauf décision spécifique du staff, un **MC** suit les exigences et la progress
 
 | Statut | Membres inscrits recommandés | Membres max sur une scène offensive |
 |---|---:|---:|
-| Gang | 14 | 8 |
-| Organisation | 18 | 10 |
-| MC | 16 | 10 |
+| Gang | 4 | X |
+| Organisation | 8 | X |
+| MC | 4 | X |
 
 Les membres en retrait, recrues ou associés participant directement à une action offensive comptent dans la limite de scène.
 
