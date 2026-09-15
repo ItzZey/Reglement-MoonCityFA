@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+
+site:
+  title: MoonCity
+  structure:
+    - type: space
+      key: mooncity-reglement
+      title: Règlement MoonCity
+      path: reglement
+      default: true
+      content:
+        directory: ./
