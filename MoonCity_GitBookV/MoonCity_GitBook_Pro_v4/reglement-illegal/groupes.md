@@ -15,7 +15,7 @@ Projet structuré autour d'une identité de club, soumis globalement aux mêmes 
 
 
 
-## Effectifs MoonCity
+## Effectifs requis
 
 | Statut | Membres inscrits recommandés | Membres max sur une scène offensive |
 |---|---:|---:|
