@@ -23,7 +23,7 @@ Les modèles exacts disponibles dépendent du catalogue MoonCity.
 | Organisation / MC | ✅ | ✅ | ✅ | ✅ | Validation |
 
 {% hint style="warning" %}
-Ce tableau encadre l'usage collectif. Les accès détaillés dépendent du **palier du groupe défini en 3.3**. Une arme obtenue exceptionnellement en RP ne doit pas devenir un prétexte à contourner durablement le statut ou le palier de votre groupe.
+Ce tableau encadre l'usage collectif. Une arme obtenue exceptionnellement en RP ne doit pas devenir un prétexte à contourner durablement le statut de votre groupe.
 {% endhint %}
 
 ## Port et usage
@@ -37,8 +37,17 @@ Ce tableau encadre l'usage collectif. Les accès détaillés dépendent du **pal
 ## Loot d'armes
 
 1. Le free-loot d'armes sur un joueur neutralisé est interdit.
-2. Une arme peut changer de propriétaire uniquement lorsqu'une règle de scène, une guerre validée ou une mécanique spécifique l'autorise.
-3. Les armes de service public ne constituent pas une source normale d'approvisionnement criminel.
+2. Vol d’armes sur joueurs — MoonCity
+Le vol d’une arme sur un joueur doit toujours découler d’une scène RP construite. Il est interdit de braquer ou de fouiller un joueur uniquement dans le but de récupérer son arme.
+Si la victime coopère entièrement à un braquage classique, ses armes ne peuvent pas être volées.
+Une arme peut cependant être récupérée lorsqu’au moins une des situations suivantes est remplie :
+la victime a sorti ou utilisé cette arme contre vous ou votre groupe durant la scène ;
+l’arme constitue l’objet d’un conflit ou d’une dette construite en RP ;
+elle est récupérée dans le cadre d’une guerre officielle entre groupes ;
+la scène ou l’opération prévoit explicitement la récupération d’armement.
+Seule l’arme concernée par la scène peut être récupérée. Une situation conflictuelle ne donne pas automatiquement le droit de vider entièrement l’inventaire d’un joueur.
+Les armes et équipements réservés aux forces de l’ordre ou services publics ne peuvent jamais être volés, sauf événement ou autorisation explicite du staff.
+Il est interdit de provoquer artificiellement une réaction armée dans le seul but de rendre une arme lootable.
 
 ## Sommations
 
@@ -46,7 +55,7 @@ Une sommation doit être compréhensible, réalisable et laisser un temps de ré
 
 ## Armes face à un véhicule
 
-Tirer sur un véhicule ou ses occupants doit être proportionné à la menace. Un simple refus de s'arrêter ne justifie pas automatiquement une rafale d'arme lourde.
+Tirer sur un véhicule ou ses occupants doit être proportionné à la menace. Un simple refus de s'arrêter ne justifie pas automatiquement une rafale d'arme.
 
 ## Zones civiles
 
