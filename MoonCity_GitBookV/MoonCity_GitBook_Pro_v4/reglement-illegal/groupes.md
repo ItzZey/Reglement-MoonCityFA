@@ -28,16 +28,14 @@ Les membres en retrait, recrues ou associés participant directement à une acti
 ## Création d'un groupe
 
 1. Un groupe doit disposer d'un nom, d'une identité et d'objectifs RP.
-2. Les groupes importants peuvent être soumis à un dossier de présentation.
-3. Copier intégralement le lore, les couleurs, les grades ou l'identité d'un groupe réel ou d'un autre serveur est déconseillé ; MoonCity privilégie les projets originaux.
-4. Le groupe doit identifier au moins un responsable capable d'échanger avec le staff.
+2. Les groupes sont soumis à un dossier de présentation en ticket.
+3. Le groupe doit identifier au moins un responsable capable d'échanger avec le staff.
 
 ## Hiérarchie et recrutement
 
 1. Les recrutements doivent être joués en RP.
 2. Les grades doivent correspondre à des responsabilités compréhensibles.
-3. Un recrutement ne peut pas servir uniquement à dépasser une limite d'effectif pour une scène.
-4. Les membres doivent connaître les règles spécifiques à leur statut et à leur palier.
+3. Les membres doivent connaître les règles spécifiques à leur statut et à leur palier.
 
 ## Tenues et identification
 
@@ -45,7 +43,7 @@ Un groupe officiel peut utiliser des couleurs, vêtements, véhicules ou signes 
 
 ## Alliances et sous-traitance
 
-1. Une alliance permanente entre groupes équivalents est interdite si elle contourne les limites d'effectif ou verrouille une partie du contenu illégal.
+1. Une alliance permanente entre groupes est interdite.
 2. Une coopération ponctuelle peut être utilisée pour un objectif précis.
 3. Mandater un groupe plus petit pour une mission est possible si une contrepartie RP existe.
 4. Deux groupes ne peuvent pas se présenter comme séparés tout en fonctionnant quotidiennement comme une seule structure.
