@@ -1,4 +1,4 @@
-![Bannière MoonCity](assets/mooncity-banner.png)
+![Bannière MoonCity](assets/mooncity-bannerv2.png)
 
 # 🌙 Bienvenue sur MoonCity
 
