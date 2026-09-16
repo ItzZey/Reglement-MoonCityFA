@@ -19,8 +19,8 @@ Les modèles exacts disponibles dépendent du catalogue MoonCity.
 | Statut | Cat. A | Cat. B | Cat. C | Cat. D | Cat. E |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Civil / indépendant | ✅ | Selon obtention RP | ❌ | ❌ | ❌ |
-| Gang | ✅ | ✅ | Selon palier | Très limité / contexte | ❌ |
-| Organisation / MC | ✅ | ✅ | Selon palier | Selon palier | Validation |
+| Gang | ✅ | ✅ | ✅ | ❌ | ❌ |
+| Organisation / MC | ✅ | ✅ | ✅ | ✅ | Validation |
 
 {% hint style="warning" %}
 Ce tableau encadre l'usage collectif. Les accès détaillés dépendent du **palier du groupe défini en 3.3**. Une arme obtenue exceptionnellement en RP ne doit pas devenir un prétexte à contourner durablement le statut ou le palier de votre groupe.
