@@ -13,56 +13,7 @@ Structure criminelle développée, disposant d'une hiérarchie, de moyens import
 ### Motorcycle Club (MC)
 Projet structuré autour d'une identité de club, soumis globalement aux mêmes exigences qu'une organisation de niveau comparable.
 
-## Système de progression des groupes illégaux
 
-{% hint style="info" %}
-**Principe :** le temps rend un groupe éligible à une évaluation, mais la promotion dépend de la qualité du RP, de la continuité, du fair-play et de la confiance du staff.
-{% endhint %}
-
-### Progression commune
-
-| Palier | Statut | Délai minimum | Finalité |
-|---|---|---:|---|
-| Palier 1 | Émergent | Immédiat | Tester le groupe sans bloquer son RP |
-| Palier 2 | Établi | 7 jours | Valider stabilité et continuité |
-| Palier 3 | Majeur | 20 jours | Ouvrir les accès sensibles |
-
-### Gangs — rue, quartier et territoire
-
-Un gang reste une structure de rue : quartier, rivalités, distribution locale, protection et contrôle territorial. Même au Palier 3, il ne devient pas une organisation.
-
-| Palier | Ce qu'il gère | Accès principaux | Limites |
-|---|---|---|---|
-| **P1 — Émergent** | Rue, petits deals, première équipe | 1 territoire • vente de rue • vols/cambriolages • supérettes • armes de mêlée • pistolets basiques | Uniquement « pétoire » • pas de gros braquages |
-| **P2 — Établi** | Réseau local, 1re responsabilité (drogue) | Point de drogue • braquages intermédiaires (Fleeca) | Pas de SMG • pas de gestion de points (drogue/armes) |
-| **P3 — Majeur** | Influence de rue, plusieurs zones, distribution locale | Gros trafic local • braquage bijouterie • braquage Maze Bank organisé par une organisation • fournisseurs spécialisés (craft…) | Pas de craft avancé d'armes : vous restez un gang |
-
-### Organisations — réseau, logistique et crime structuré
-
-Une organisation évolue autour des contacts, du blanchiment, du stockage, des fournisseurs et des importations. Elle contrôle moins la rue qu'un gang, mais accède à des mécaniques plus stratégiques.
-
-| Palier | Ce qu'elle gère | Accès principaux | Limites |
-|---|---|---|---|
-| **P1 — Émergente** | Contacts, façade, petits contrats | 1 territoire • point de drogue basique (weed) • pistolets | Pas d'armes supérieures aux pistolets |
-| **P2 — Établie** | Logistique, stockage, fournisseurs | Blanchiment • craft pistolets/items (perceuse, kevlar…) • SMG • Fleeca/bijouterie | Pas d'armes lourdes • pas de craft d'armes lourdes |
-| **P3 — Majeure** | Crime organisé, import, gros réseaux | Braquages majeurs • craft d'armes supérieures • import important • craft avancé • armes longues • fournisseurs rares • opérations spéciales | Accès exceptionnels uniquement sur validation staff |
-
-{% hint style="info" %}
-Sauf décision spécifique du staff, un **MC** suit les exigences et la progression d'une organisation de niveau comparable.
-{% endhint %}
-
-### Validation du passage de palier
-
-| Critère | Pondération |
-|---|---:|
-| Qualité RP | **50 %** |
-| Fair-play | **20 %** |
-| Stabilité | **15 %** |
-| Activité | **15 %** |
-
-{% hint style="warning" %}
-**Règles essentielles :** aucune montée automatique • une sanction grave peut geler la progression • un allié ne peut pas servir à contourner un palier • un déblocage autorise un accès RP mais ne donne jamais automatiquement l'objet ou la mécanique • un Gang P3 reste un gang et une Organisation P3 reste une organisation.
-{% endhint %}
 
 ## Effectifs MoonCity
 
