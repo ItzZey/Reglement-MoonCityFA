@@ -64,22 +64,22 @@ Ne sont pas recevables :
 3. Revenir sur une scène après avoir été neutralisé est interdit.
 4. Les joueurs blessés doivent jouer leur état même si le système leur permet encore de courir ou tirer.
 
-Sommations & ouverture du feu
+## Sommations & ouverture du feu
 
 Lors d’un braquage ou d’une confrontation entre groupes, l’usage des armes doit rester la conséquence d’une escalade RP. Une poursuite ou un simple refus de s’arrêter ne suffit pas, à lui seul, à autoriser l’ouverture du feu.
 
-Sommations
+### Sommations
 
 Une sommation doit être claire, audible et réalisable.
 
 Le joueur visé doit comprendre ce qui lui est demandé et disposer d’un court délai pour réagir.
 
-Exemples :
+**Exemples :**
 
-« Descendez du véhicule, mains en l’air. »
-« Range ton arme et lève les mains. »
-« Ne remonte pas dans le véhicule. »
-« Recule et ne sors rien. »
+- « Descendez du véhicule, mains en l’air. »
+- « Range ton arme et lève les mains. »
+- « Ne remonte pas dans le véhicule. »
+- « Recule et ne sors rien. »
 
 {% hint style="warning" %}
 Une sommation donnée à distance, inaudible ou immédiatement suivie de tirs ne sera pas considérée comme valable.
@@ -87,65 +87,21 @@ Une sommation donnée à distance, inaudible ou immédiatement suivie de tirs ne
 
 Il est interdit de donner une sommation uniquement dans le but de provoquer artificiellement un motif pour ouvrir le feu.
 
-Refus de coopérer
+### Refus de coopérer
 
 Un joueur clairement mis en joue qui refuse volontairement de jouer la scène peut créer une situation de No Fear.
 
-Cela ne signifie cependant pas :
-
-Sommation → 2 secondes → tirs.
-
-Le contexte doit laisser au joueur une véritable possibilité de comprendre la demande et d’y répondre.
-
-En cas de scène de groupe, le Lead OP décide de l’ouverture du feu et donne le call en radio.
-
-Poursuites
+### Poursuites
 
 Le fait qu’un véhicule refuse de s’arrêter ne donne pas automatiquement l’autorisation de lui tirer dessus.
 
-La poursuite doit continuer tant qu’aucune menace supplémentaire ne justifie une escalade.
-
-{% hint style="info" %}
-Un groupe ne peut pas provoquer volontairement une poursuite uniquement pour obtenir ensuite un motif de tir.
-{% endhint %}
-
-Quand l’ouverture du feu est-elle possible ?
-
-L’ouverture du feu peut notamment être justifiée lorsqu’un adversaire :
-
-met clairement votre groupe en joue ;
-ouvre le feu ;
-refuse volontairement une mise en joue après des sommations cohérentes ;
-tente délibérément d’écraser un joueur ;
-prend une position offensive évidente dans le but d’engager un échange ;
-engage une action armée immédiate contre votre groupe.
-
-Lorsqu’une menace armée est déjà clairement engagée, il n’est pas nécessaire d’attendre de recevoir la première balle pour se défendre.
-
-Prise de position
+### Prise de position
 
 Une prise de position correspond à une action montrant clairement qu’un groupe prépare l’affrontement.
 
-Par exemple :
-
-plusieurs membres se dispersent pour encercler l’adversaire ;
-des joueurs prennent des angles de tir ;
-un membre sort une arme et commence à mettre le groupe adverse en joue ;
-plusieurs véhicules se repositionnent afin de bloquer ou engager le groupe.
-
-En revanche, descendre d’un véhicule, courir ou tourner momentanément le dos ne constitue pas automatiquement une prise de position.
-
-Call de tir
+### Call de tir
 
 Dans une action organisée, un Lead OP doit être désigné.
-
-Il est responsable des décisions importantes de la scène et notamment du call de tir offensif.
-
-{% hint style="danger" %}
-Hors défense immédiate, aucun membre ne doit ouvrir le feu de sa propre initiative avant le call du Lead OP.
-{% endhint %}
-
-À retenir
 
 Une sommation n’est pas une autorisation automatique de tirer.
 
