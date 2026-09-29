@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+
+site:
+  title: SovaLife
+  structure:
+    - type: space
+      key: sovalife-reglement
+      title: Règlement SovaLife
+      path: reglement
+      default: true
+      content:
+        directory: ./
